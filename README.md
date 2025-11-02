@@ -22,4 +22,4 @@ Landing Page 5/6
 
 Landing Page 6/6
 
-![Preview](previews/preview6.png)
+![Preview](previews/responsive.png)
